@@ -1,0 +1,8 @@
+| Word | English definition | Example | Pinyin | Jyutping |
+| --- | --- | --- | --- | --- |
+| 拒绝 | to reject; to refuse (verb); rejection (noun) | 我被拒绝了。 (I got rejected.)<br>我俾人拒绝咗。 (I got rejected.) | Wǒ bèi jùjué le. | Ngo5 bei2 jan4 keoi5 zyut6 zo2. |
+| 聚会 | gathering; party; get-together | 我们周末有一个聚会。 (We have a gathering this weekend.)<br>我哋周末有个聚会。 (We have a gathering this weekend.) | Wǒmen zhōumò yǒu yī gè jùhuì. | Ngo5 dei6 zau1 mut6 jau5 go3 zeoi6 wui6. |
+| 写代码<br>写程序 | to write code | 我每天写代码。 (I write code every day.)<br>我每日写程序。 (I write code every day.) | Wǒ měitiān xiě dàimǎ. | Ngo5 mui5 jat6 se2 cing4 zeoi6. |
+| 软件工程师 | software engineer | 我是软件工程师。 (I am a software engineer.)<br>我系软件工程师。 (I am a software engineer.) | Wǒ shì ruǎnjiàn gōngchéngshī. | Ngo5 hai6 jyun5 gin6 gung1 cing4 si1. |
+| 尴尬 | awkward; embarrassed (socially uncomfortable) | 被她拒绝之后还要常见面，真的很尴尬。 (Having to keep seeing her after she rejected me is really awkward.)<br>俾佢拒绝咗之后仲要成日见面，真系好尴尬。 (Having to keep seeing her after she rejected me is really awkward.) | Bèi tā jùjué zhīhòu hái yào cháng jiànmiàn, zhēn de hěn gāngà. | Bei2 keoi5 keoi5 zyut6 zo2 zi1 hau6 zung6 jiu3 sing4 jat6 gin3 min6, zan1 hai6 hou2 gaam3 gaai3. |
+| 一刻 | a moment; an instant; also 15 minutes / a quarter past the hour (e.g. 三点一刻 = 3:15) | 他一刻也没停下来。 (He didn't stop for even a moment.)<br>佢一刻都冇停低。 (He didn't stop for even a moment.) | Tā yīkè yě méi tíng xiàlái. | Keoi5 jat1 hak1 dou1 mou5 ting4 dai1. |
