@@ -1,8 +1,11 @@
-| Word | English definition | Example | Pinyin | Jyutping |
-| --- | --- | --- | --- | --- |
-| 拒绝 | to reject; to refuse (verb); rejection (noun) | 我被拒绝了。 (I got rejected.)<br>我俾人拒绝咗。 (I got rejected.) | Wǒ bèi jùjué le. | Ngo5 bei2 jan4 keoi5 zyut6 zo2. |
-| 聚会 | gathering; party; get-together | 我们周末有一个聚会。 (We have a gathering this weekend.)<br>我哋周末有个聚会。 (We have a gathering this weekend.) | Wǒmen zhōumò yǒu yī gè jùhuì. | Ngo5 dei6 zau1 mut6 jau5 go3 zeoi6 wui6. |
-| 写代码<br>写程序 | to write code | 我每天写代码。 (I write code every day.)<br>我每日写程序。 (I write code every day.) | Wǒ měitiān xiě dàimǎ. | Ngo5 mui5 jat6 se2 cing4 zeoi6. |
-| 软件工程师 | software engineer | 我是软件工程师。 (I am a software engineer.)<br>我系软件工程师。 (I am a software engineer.) | Wǒ shì ruǎnjiàn gōngchéngshī. | Ngo5 hai6 jyun5 gin6 gung1 cing4 si1. |
-| 尴尬 | awkward; embarrassed (socially uncomfortable) | 被她拒绝之后还要常见面，真的很尴尬。 (Having to keep seeing her after she rejected me is really awkward.)<br>俾佢拒绝咗之后仲要成日见面，真系好尴尬。 (Having to keep seeing her after she rejected me is really awkward.) | Bèi tā jùjué zhīhòu hái yào cháng jiànmiàn, zhēn de hěn gāngà. | Bei2 keoi5 keoi5 zyut6 zo2 zi1 hau6 zung6 jiu3 sing4 jat6 gin3 min6, zan1 hai6 hou2 gaam3 gaai3. |
-| 一刻 | a moment; an instant; also 15 minutes / a quarter past the hour (e.g. 三点一刻 = 3:15) | 他一刻也没停下来。 (He didn't stop for even a moment.)<br>佢一刻都冇停低。 (He didn't stop for even a moment.) | Tā yīkè yě méi tíng xiàlái. | Keoi5 jat1 hak1 dou1 mou5 ting4 dai1. |
+| Word | English definition | Mandarin | Cantonese |
+| --- | --- | --- | --- |
+| 拒绝 | to reject; to refuse (verb); rejection (noun) | 我被拒绝了。<br>(I got rejected.)<br>Wǒ bèi jùjué le. | 我俾人拒绝咗。<br>(I got rejected.)<br>Ngo5 bei2 jan4 keoi5 zyut6 zo2. |
+| 聚会 | gathering; party; get-together | 我们周末有一个聚会。<br>(We have a gathering this weekend.)<br>Wǒmen zhōumò yǒu yī gè jùhuì. | 我哋周末有个聚会。<br>(We have a gathering this weekend.)<br>Ngo5 dei6 zau1 mut6 jau5 go3 zeoi6 wui6. |
+| 写代码<br>写程序 | to write code | 我每天写代码。<br>(I write code every day.)<br>Wǒ měitiān xiě dàimǎ. | 我每日写程序。<br>(I write code every day.)<br>Ngo5 mui5 jat6 se2 cing4 zeoi6. |
+| 软件工程师 | software engineer | 我是软件工程师。<br>(I am a software engineer.)<br>Wǒ shì ruǎnjiàn gōngchéngshī. | 我系软件工程师。<br>(I am a software engineer.)<br>Ngo5 hai6 jyun5 gin6 gung1 cing4 si1. |
+| 尴尬 | awkward; embarrassed (socially uncomfortable) | 被她拒绝之后还要常见面，真的很尴尬。<br>(Having to keep seeing her after she rejected me is really awkward.)<br>Bèi tā jùjué zhīhòu hái yào cháng jiànmiàn, zhēn de hěn gāngà. | 俾佢拒绝咗之后仲要成日见面，真系好尴尬。<br>(Having to keep seeing her after she rejected me is really awkward.)<br>Bei2 keoi5 keoi5 zyut6 zo2 zi1 hau6 zung6 jiu3 sing4 jat6 gin3 min6, zan1 hai6 hou2 gaam3 gaai3. |
+| 一刻 | a moment; an instant; also 15 minutes / a quarter past the hour (e.g. 三点一刻 = 3:15) | 他一刻也没停下来。<br>(He didn't stop for even a moment.)<br>Tā yīkè yě méi tíng xiàlái. | 佢一刻都冇停低。<br>(He didn't stop for even a moment.)<br>Keoi5 jat1 hak1 dou1 mou5 ting4 dai1. |
+| 你骗人<br>你呃人 | "You're lying!" (Mandarin: 骗人; Cantonese: 呃人) | 你骗人！我不信你。<br>(You're lying! I don't believe you.)<br>Nǐ piànrén! Wǒ bú xìn nǐ. | 你呃人！我唔信你。<br>(You're lying! I don't believe you.)<br>Nei5 aak3 jan4! Ngo5 m4 seon3 nei5. |
+| 累<br>攰 | tired; exhausted (Mandarin: 累; Cantonese: 攰) | 我上班总是很累。<br>(I'm always tired from work.)<br>Wǒ shàngbān zǒngshì hěn lèi. | 我返工成日都好攰。<br>(I'm always tired from work.)<br>Ngo5 faan1 gung1 seng4 jat6 dou1 hou2 gui6. |
+| 年轻人<br>后生仔 | youth; young people (Mandarin: 年轻人; Cantonese: 后生仔, colloquial for "youngsters") | 他们不理解现在的年轻人。<br>(They don't understand today's young people.)<br>Tāmen bù lǐjiě xiànzài de niánqīngrén. | 佢哋唔理解而家嘅后生仔。<br>(They don't understand today's young people.)<br>Keoi5 dei6 m4 lei5 gaai2 ji4 gaa1 ge3 hau6 saang1 zai2. |
