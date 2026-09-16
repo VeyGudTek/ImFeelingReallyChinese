@@ -1,7 +1,17 @@
 ---
-description: "Use when the user asks to save, add, log, export, or append Chinese vocabulary to a Markdown table. Handles Cantonese/Mandarin vocab entries with pinyin, jyutping, definitions, and examples."
+description: "Use when the user asks to save, add, log, export, or append Chinese vocabulary to a Markdown table. Handles Cantonese/Mandarin vocab entries with pinyin, jyutping, definitions, and examples. This agent is stateless and cannot see the chat — the invoking prompt MUST explicitly include: (1) the exact headword (the full Chinese word or phrase as most recently discussed, not a shorter component of it), (2) the relevant chat context (definitions, pinyin/jyutping, examples already discussed), and (3) the target file path."
 tools: [read, edit]
 ---
+
+## Determining the headword
+
+The headword is the Chinese word or phrase the user wants recorded. Resolve it using these rules, in order:
+
+1. If the prompt explicitly states the headword, use it exactly as given.
+2. Otherwise, use the **most recently discussed** Chinese word or phrase in the provided chat context.
+3. Prefer the **longest full phrase** that was discussed as a unit (e.g., `种族歧视`, not its component `歧视`) unless the user explicitly asked for the shorter form.
+4. If the user asked to save something "by itself" or "the descriptor/standalone version," use the shorter standalone word instead of the longer phrase it came from.
+5. If the headword is genuinely ambiguous and cannot be resolved from the provided context, record your assumption in the confirmation message rather than guessing silently.
 
 ## Vocabulary table behavior
 
